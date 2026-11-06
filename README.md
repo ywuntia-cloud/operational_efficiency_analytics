@@ -80,7 +80,8 @@ Because of these data-driven results, company leadership can stop guessing and t
 1. Ditch Manual Tools: Management can immediately replace manual email/spreadsheet chains with an automated, synchronized scheduling software platform to eliminate inter-departmental friction.
 2. Implement the 15% Time-Saving Framework: Our engineered simulation model proves that a slight 15% fix in scheduling speed recovers thousands of operational hours annually and prevents over GH₵1.12 Million from being wasted.
 3. Reallocate Capital Safely: Instead of spending money trying to fix trucks or routes (which data shows are operating efficiently), the company can reallocate its capital to upgrade internal office IT workflows—maximizing their ROI.
+<hr>
 
 Conclusion:
 
-This independent project stands as a comprehensive proof of concept for the entire data engineering lifecycle. By taking data completely from scratch—washing it in Python, managing it inside a secure MySQL database server, and designing an advanced interactive Power BI ecosystem—I didn't just build a dashboard. I delivered a strategic roadmap that allows a company to eliminate workflow friction, protect its profits, and drive executive growth using hard data.
+This independent project stands as a comprehensive proof of concept for the entire data engineering lifecycle. By taking data completely from scratch and cleaning it in Python, managing it inside a secure MySQL database server, and designing an advanced interactive Power BI ecosystem, I was able to deliver a strategic roadmap that allows a company to eliminate workflow friction, protect its profits, and drive executive growth using hard data.
